@@ -9,7 +9,6 @@ graph
     value 7
   ]
 
-
   node
   [
     id 1
